@@ -25,7 +25,7 @@ Upon establishing physical connections, link negotiations were observed. The int
 To verify end-to-end logical connectivity at Layer 3, the ping utility was executed from the Command Prompt terminal of PC0 targeting PC1 (192.168.1.20).
 
 Execution Commands and Obresved Output:
-![Network Topology Diagram](pingPC0.png)
+![Cmd With Outpu Diagram](pingPC0.png)
 
 
 **3. Visual Simulation Analysis**
